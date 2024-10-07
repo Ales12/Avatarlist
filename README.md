@@ -1,4 +1,5 @@
 # Übersicht der Avatarpersonen
+Gibt eine Liste aus, welche Avatarpersonen schon vergeben sind. Hierbei ist über das ACP Einstellbar ob mit Divers oder ohne. Zudem kann eingestellt werden, ob die Usernamen formatiert oder nur als Links ausgegeben werden sollen.
 
 ## Link
 misc.php?action=claims
