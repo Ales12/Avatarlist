@@ -11,6 +11,10 @@ misc.php?action=claims
 - claims_overview 	
 - claims_overview_divers
 
+## variabeln
+header
+``{$claims_nav}`` 
+
 ## neue css 
 claims.css
 
